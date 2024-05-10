@@ -1,7 +1,7 @@
 <h1 align="center">🐇I'm <a href="https://irvyne.carrd.co/" target="_blank">irvyne</a>🐇</h1>
 <h1 align="center">Hello silly people in my conputer!!!!!! </h1>
 
-![woaw](https://github.com/irvyneuwu/irvyneuwu/assets/156880718/ddae5cb0-6812-4e2f-abe0-d3ab5512e9cb)
+![woaw](https://raw.githubusercontent.com/irvyneuwu/irvyne/main/FBz5GvQVcA4IEwv.png)
 
 <p align="center">I’m <b>@irvyneuwu</b> or just <i>irvyne</i> <br>
 - I’m interested in machine learning, video game modding and AI.<br>
@@ -12,4 +12,4 @@
 - Fun fact: ✨Queer✨ </p>
 
 <footer>
-<p>irvyne</p></footer>
+<p align="center" font-size="50%">irvyne</p></footer>
