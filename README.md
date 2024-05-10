@@ -15,4 +15,4 @@
 - Fun fact: ✨Queer✨ </p>
 
 <footer>
-<p align="center" font-size="50%">irvyne</p></footer>
+<p align="center" font-size="50%"><a href="https://irvyne.carrd.co/" target="_blank">irvyne</a></p></footer>
