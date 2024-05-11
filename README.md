@@ -1,4 +1,4 @@
-<h1 align="center">🐇I'm <a href="https://irvyne.carrd.co/" target="_blank">irvyne</a>🐇</h1>
+<h1 align="center">🐇I'm <a href="https://irvyneuwu.carrd.co/" target="_blank">irvyne</a>🐇</h1>
 <h1 align="center">Hello silly people in my conputer!!!!!! </h1>
 
 
@@ -15,4 +15,4 @@
 - Fun fact: ✨Queer✨ </p>
 
 <footer>
-<p align="center" font-size="50%"><a href="https://irvyne.carrd.co/" target="_blank">irvyne</a></p></footer>
+<p align="center" font-size="50%"><a href="https://irvyneuwu.carrd.co/" target="_blank">irvyne</a></p></footer>
